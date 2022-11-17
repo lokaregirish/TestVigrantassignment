@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T00:10:05 IST" name="Testvigrant assessment" finished-at="2022-11-17T00:11:20 IST" duration-ms="75537">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T00:10:05 IST" name="validating pushpa the rise" finished-at="2022-11-17T00:11:20 IST" duration-ms="75537">
+      <class name="com.testvigrant.assessment.Validatingpushpatherise">
+        <test-method signature="launch()[pri:0, instance:com.testvigrant.assessment.Validatingpushpatherise@6cd28fa7]" started-at="2022-11-17T00:10:05 IST" name="launch" finished-at="2022-11-17T00:10:33 IST" duration-ms="28315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Navigate()[pri:1, instance:com.testvigrant.assessment.Validatingpushpatherise@6cd28fa7]" started-at="2022-11-17T00:10:33 IST" name="Navigate" finished-at="2022-11-17T00:11:05 IST" duration-ms="32459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method signature="Extractinimdb()[pri:2, instance:com.testvigrant.assessment.Validatingpushpatherise@6cd28fa7]" started-at="2022-11-17T00:11:05 IST" name="Extractinimdb" finished-at="2022-11-17T00:11:07 IST" duration-ms="1703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Extractinimdb -->
+        <test-method signature="launchagain()[pri:3, instance:com.testvigrant.assessment.Validatingpushpatherise@6cd28fa7]" started-at="2022-11-17T00:11:07 IST" name="launchagain" finished-at="2022-11-17T00:11:11 IST" duration-ms="3659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchagain -->
+        <test-method signature="navagatetowiki()[pri:4, instance:com.testvigrant.assessment.Validatingpushpatherise@6cd28fa7]" started-at="2022-11-17T00:11:11 IST" name="navagatetowiki" finished-at="2022-11-17T00:11:20 IST" duration-ms="9293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navagatetowiki -->
+        <test-method signature="validation()[pri:5, instance:com.testvigrant.assessment.Validatingpushpatherise@6cd28fa7]" started-at="2022-11-17T00:11:20 IST" name="validation" finished-at="2022-11-17T00:11:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+      </class> <!-- com.testvigrant.assessment.Validatingpushpatherise -->
+    </test> <!-- validating pushpa the rise -->
+  </suite> <!-- Testvigrant assessment -->
+</testng-results>

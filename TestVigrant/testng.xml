@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testvigrant assessment">
+<test name="validating pushpa the rise">
+<classes>
+<class name="com.testvigrant.assessment.Validatingpushpatherise"></class>
+</classes>
+</test>
+</suite>
